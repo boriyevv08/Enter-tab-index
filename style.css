@@ -1,0 +1,44 @@
+.inp-wrapper{
+
+  justify-content: space-around;
+
+}
+
+
+
+
+.inp{
+   margin: 0 auto;
+   display: inline-block;
+   width: 500px;
+}
+
+.div{
+  width: 600px;
+  margin: 0 auto;
+  margin-top: 200px;
+}
+
+.dark-mode{
+  width: 100px;
+display:block;
+ background-color:  #0dcaf0!important;;
+ color: black;
+border-radius: 15% ;
+ margin-left: 75%;
+}
+
+.dark{
+  background-color: black;
+
+}
+
+.color{
+  color: black;
+  display: inline-block;
+}
+
+.color1{
+  color: grey;
+  display: inline-block;
+}
